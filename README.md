@@ -4,7 +4,7 @@
 
 <img src="svd_graph.png" alt="SVD graph" height="350px">
 
-This figure illustrates the relationship between the Data Space (U) and Feature Space (V^T) derived from the Singular Value Decomposition (SVD) of matrix A. 
+This figure illustrates the relationship between the Data Space (U) and Feature Space ($V^T$) derived from the Singular Value Decomposition (SVD) of matrix A. 
 
 
 This repository provides an implementation and exploration of Singular Value Decomposition (SVD) in Python. SVD is a powerful matrix factorization technique used in numerous applications such as data reduction, noise filtering, and latent semantic analysis.
