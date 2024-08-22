@@ -1,4 +1,5 @@
 # singular-value-decomposition-SVD
+<img src="svd_equation.png" alt="Gradient Descent Paths" height="600px">
 
 <img src="svd_graph.png" alt="Gradient Descent Paths" height="300px">
 
